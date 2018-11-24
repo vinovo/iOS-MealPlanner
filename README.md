@@ -15,3 +15,4 @@ meals from the meal table. The app will automatically give a nutrition feedback 
 
 [How to Use:]
   Download or clone the code to your local git repository and build the project to your device with Xcode.
+ 
